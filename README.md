@@ -1,14 +1,16 @@
 # ai-component-bundler [![Build Status](https://secure.travis-ci.org//ai-component-bundler.png?branch=master)](http://travis-ci.org//ai-component-bundler)
 
-ai-component-bundler
+The Aurelia component bundler
 
 ## Getting Started
 Install the module with: `npm install ai-component-bundler`
 
 ```javascript
-var ai-component-bundler = require('ai-component-bundler');
-ai-component-bundler.awesome(); // "awesome"
+var bundler = require('ai-component-bundler');
+bundler(); // "awesome"
 ```
+
+See [how-to-setup-testing-using-typescript-mocha-chai-sinon-karma-and-webpack](https://templecoding.com/blog/2016/02/02/how-to-setup-testing-using-typescript-mocha-chai-sinon-karma-and-webpack/)
 
 ## Documentation
 _(Coming soon)_
