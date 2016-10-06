@@ -56,6 +56,10 @@ Run gulp tests: `npm test`
 ### Use mocha-webpack to run tests
 `npm run test-wp`
 
+## Using Karma
+- `karma start` to start Karma server (in a process)
+- `karma run` to run tests (different process - communicating over server port)
+
 ### Test Coverage
 `npm run cover` to use Istanbul test coverage
 
