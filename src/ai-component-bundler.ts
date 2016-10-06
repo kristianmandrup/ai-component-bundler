@@ -9,5 +9,5 @@
 /// <reference path="../typings/index.d.ts" />
 
 export default function awesome(): string {
-  return 'awesome';
+  return 'awesome x';
 }
