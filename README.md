@@ -1,5 +1,7 @@
 # ai-component-bundler [![Build Status](https://secure.travis-ci.org//ai-component-bundler.png?branch=master)](http://travis-ci.org//ai-component-bundler)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ai-component-bundler.svg)](https://greenkeeper.io/)
+
 Provides functionality for bundling a component in a project.
 
 ## Getting Started
